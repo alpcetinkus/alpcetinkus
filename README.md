@@ -1,7 +1,7 @@
 ### Hi there 👋
- I'm Alp Cetinkus. I'm a 4th grade student at Akdeniz University.
+ I'm Alp Cetinkus.
  
- I want to learn about programming languages (developing android apps right now), data structures and alghoritms. Also I'm trying to be software developer.
+ As a recent graduate from Akdeniz University's MIS program, I am excited to begin my career as an Android developer. I am skilled in building user interfaces that are both functional and visually appealing, and I am always seeking to improve my abilities in mobile development. During my studies, I took the opportunity to learn Kotlin, a programming language that has helped me to become proficient in creating mobile applications.
  
  
  
